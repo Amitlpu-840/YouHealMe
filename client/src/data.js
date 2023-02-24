@@ -3,7 +3,7 @@ import { FaYoutube, FaInstagram, FaGithub } from 'react-icons/fa';
 import { BsChatDotsFill } from 'react-icons/bs';
 
 // import images
-import AboutImg from '../src/assets/img/about.png';
+import AboutImg from '../src/assets/img/about.jpg';
 import Feature1Img from '../src/assets/img/features/feature1.jpg';
 import Feature2Img from '../src/assets/img/features/feature2.jpg';
 import Feature3Img from '../src/assets/img/features/feature3.jpg';
@@ -20,19 +20,19 @@ import Feature4BgImg from '../src/assets/img/features/feature4_bg.png';
 
 export const navigationData = [
   {
-    name: 'Deliver',
+    name: 'Relax with music',
     href: '#',
   },
   {
-    name: 'About',
+    name: 'Books',
     href: '#',
   },
   {
-    name: 'Features',
+    name: 'Community',
     href: '#',
   },
   {
-    name: 'Signup',
+    name: 'Connect',
     href: '#',
   },
 ];
@@ -60,36 +60,36 @@ export const featuresData = {
     {
       image: Feature1Img,
       bgImage: Feature1BgImg,
-      title: 'Payment Done',
+      title: 'Calm Music & Sounds',
       description:
-        'Pay with a Visa or PayPal card and without much ado',
+        'Relax and unwind with our soothing sounds.',
       linkText: 'Learn more',
       delay: '400',
     },
     {
       image: Feature2Img,
       bgImage: Feature2BgImg,
-      title: 'Find Your Product',
+      title: 'Chat Anonymously with Strangers',
       description:
-        'We offer sale of products through the Internet..',
+        'Connect with the world, without revealing yourself',
       linkText: 'Learn more',
       delay: '700',
     },
     {
       image: Feature3Img,
       bgImage: Feature3BgImg,
-      title: 'Print Out',
+      title: 'Become Part of Communities',
       description:
-        'Print out service gives you convenience if someday you need print data, just edit it all and just print it.',
+        'Connect with Like-minded People and Explore Shared Interests through Joining Communities.',
       linkText: 'Learn more',
       delay: '1000',
     },
     {
       image: Feature4Img,
       bgImage: Feature4BgImg,
-      title: 'Product Received',
+      title: 'Unleashing the Power of Fun',
       description:
-        'In our app you can see the delay time of your order...',
+        'Discover the Joy of Life with Fun Activities to Boost Your Mood and Enhance Well-being!',
       linkText: 'Learn more',
       delay: '1300',
     },
