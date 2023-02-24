@@ -38,9 +38,9 @@ export const navigationData = [
 ];
 
 export const heroData = {
-  title: ` Order Products Faster Easier`,
+  title: `Relax and let go of stress - it's time to recharge!`,
   subtitle:
-    'Order your favorite foods at any time and we will deliver them right to where you are.',
+    'Refresh your mind, body, and soul - with our services enjoy one moment of relaxation at a time.',
   btnText: 'Get Started',
   image: HeroImage,
 };
@@ -132,9 +132,9 @@ export const ctaData = {
 
 export const footerData = {
   logo: LogoV2,
-  address: 'Product Texas, 234 Bokki Avenue Street BMW 99388',
-  email: 'info@producttexas.project',
-  phone: '1-232-7788 (Main)',
+  address: 'EliteHackers',
+  email: 'thisisag840@gmail.com',
+  phone: '( call us )',
   list1: [
     {
       name: 'Profile',
@@ -192,6 +192,6 @@ export const footerData = {
 };
 
 export const copyrightData = {
-  text: '© Product Texas, 2022. All rights reserved. Company Registration Number: 09833888.',
+  text: '© ElitHackers, 2023. All rights reserved.',
   icon: <BsChatDotsFill />,
 };
