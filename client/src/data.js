@@ -61,6 +61,7 @@ export const featuresData = {
       image: Feature1Img,
       bgImage: Feature1BgImg,
       title: 'Calm Music & Sounds',
+      link:'Music',
       description:
         'Relax and unwind with our soothing sounds.',
       linkText: 'Learn more',
@@ -70,6 +71,7 @@ export const featuresData = {
       image: Feature2Img,
       bgImage: Feature2BgImg,
       title: 'Chat Anonymously with Strangers',
+      link:'ChatAnonymous',
       description:
         'Connect with the world, without revealing yourself',
       linkText: 'Learn more',
@@ -79,6 +81,8 @@ export const featuresData = {
       image: Feature3Img,
       bgImage: Feature3BgImg,
       title: 'Become Part of Communities',
+   
+      link:'Communities',
       description:
         'Connect with Like-minded People and Explore Shared Interests through Joining Communities.',
       linkText: 'Learn more',
@@ -88,6 +92,8 @@ export const featuresData = {
       image: Feature4Img,
       bgImage: Feature4BgImg,
       title: 'Unleashing the Power of Fun',
+   
+      link:'Activities',
       description:
         'Discover the Joy of Life with Fun Activities to Boost Your Mood and Enhance Well-being!',
       linkText: 'Learn more',
