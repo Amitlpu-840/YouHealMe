@@ -47,15 +47,15 @@ export const heroData = {
 
 export const aboutData = {
   image: AboutImg,
-  title: 'Find Out A Little More About Us',
+  title: 'Find Your Calm: Relax, Recharge, and Renew with Our Stress-Relieving Services',
   subtitle:
-    'We are a company dedicated to the distribution of products by delivery to your home or to the place where you are, with the best quality of delivery.',
+    'To manage stress, try calm music, chatting with loved ones, fun activities, mindfulness, exercise, warm baths, and breathing exercises.',
 };
 
 export const featuresData = {
-  title: 'Some Services We Offer',
+  title: 'Welcome to our stress releasing website during recession!',
   subtitle:
-    'With our app you can view the route of your order, from our local headquarters to the place where you are. Look for the app now!',
+    "We understand that times are tough and stress levels are high. That's why we've created this website as a safe space to help you release stress and find peace during these challenging times.",
   list: [
     {
       image: Feature1Img,
