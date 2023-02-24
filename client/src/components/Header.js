@@ -13,10 +13,10 @@ const Header = () => {
   const [navMobile, setNavMobile] = useState(false);
   return (
     <header
-      className='mb-12 lg:mb-0 z-20 relative px-4 lg:px-0'
+      className='mb-12 lg:mb-0 z-20 relative px-4 lg:px-0 '
       data-aos='fade-down'
-      data-aos-delay='1200'
-      data-aos-duration='1000'
+      data-aos-delay='700'
+      data-aos-duration='5000'
     >
       <div className='container mx-auto'>
         <div className='flex items-center justify-between'>
