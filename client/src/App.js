@@ -12,6 +12,7 @@ import Testimonials from './components/Testimonials';
 import CtaSection from './components/CtaSection';
 import Footer from './components/Footer';
 
+
 const App = () => {
   // animate on scroll initialization
   Aos.init({
