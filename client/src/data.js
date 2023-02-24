@@ -165,7 +165,7 @@ export const footerData = {
       href: '#',
     },
     {
-      name: 'Sign Up',
+      name: 'Sign Up / login',
       href: '#',
     },
     {
