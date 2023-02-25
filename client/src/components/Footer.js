@@ -17,7 +17,7 @@ const Footer = () => {
           <div className='w-[45%] mx-auto flex flex-col items-center xl:items-start'>
             {/* logo */}
             <a href='#'>
-              <img className='mb-[65px]' src={logo} alt='' />
+              <img className='mb-[65px]' src={logo} alt='' style={{width:"200px"}} />
             </a>
             {/* address */}
             <div className='max-w-[260px] mb-5 text-primary font-bold'>

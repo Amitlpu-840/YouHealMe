@@ -38,7 +38,7 @@ export const navigationData = [
 ];
 
 export const heroData = {
-  title: `Relax and let go of stress - it's time to recharge!`,
+  title: `Relax and let go off stress - it's time to recharge!`,
   subtitle:
     'Refresh your mind, body, and soul - with our services enjoy one moment of relaxation at a time.',
   btnText: 'Get Started',
