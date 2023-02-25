@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState, useRef } from 'react'
-import song from './Suncrown - Legend of the Forgotten Centuries.mp3'
+import song from './music/rain-and-nostalgia-version-60s-10820.mp3'
 import Slider from './components/slider/Slider'
 import ControlPanel from './components/controls/ControlPanel'
 
