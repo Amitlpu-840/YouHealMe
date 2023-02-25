@@ -23,7 +23,7 @@ const Header = () => {
           <div className='flex items-center gap-x-[120px]'>
             {/* logo */}
             <a href='#'>
-              <img src={Logo} alt='' style={{width:"60px"}} />
+              <img src={Logo} alt='' style={{width:"200px"}} />
             </a>
 
             {/* nav / initially hidden / show on large screens  */}
