@@ -20,9 +20,9 @@ Bring to The Market -  We use Netlify service to deploy our website and it will 
 
 
 Technologies used:
-React JS
-Node Js
-Netlify
+React JS,
+Node Js,
+Netlify,
 Firebase
 
 
