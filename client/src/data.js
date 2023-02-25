@@ -8,6 +8,7 @@ import Feature1Img from '../src/assets/img/features/feature1.jpg';
 import Feature2Img from '../src/assets/img/features/feature2.jpg';
 import Feature3Img from '../src/assets/img/features/feature3.jpg';
 import Feature4Img from '../src/assets/img/features/feature4.jpg';
+import Feature5Img from '../src/assets/img/features/confession.jpg';
 import Avatar1Img from '../src/assets/img/testimonials/avatar1.png';
 import Avatar2Img from '../src/assets/img/testimonials/avatar2.png';
 import Avatar3Img from '../src/assets/img/testimonials/avatar3.png';
@@ -89,7 +90,7 @@ export const featuresData = {
       delay: '1000',
     },
     {
-      image: Feature4Img,
+      image: Feature5Img,
       bgImage: Feature4BgImg,
       title: 'Confess ',
    
