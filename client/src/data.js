@@ -92,6 +92,17 @@ export const featuresData = {
     {
       image: Feature4Img,
       bgImage: Feature4BgImg,
+      title: 'Confess ',
+   
+      link:'Confess',
+      description:
+        'Share your secrets and Unburden yourself, anonymously',
+      linkText: 'Learn more',
+      delay: '1300',
+    },
+    {
+      image: Feature4Img,
+      bgImage: Feature4BgImg,
       title: 'Unleashing the Power of Fun',
    
       link:'Activities',
