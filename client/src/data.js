@@ -90,7 +90,7 @@ export const featuresData = {
       delay: '1000',
     },
     {
-      image: Feature4Img,
+      image: Feature5Img,
       bgImage: Feature4BgImg,
       title: 'Confess ',
    
