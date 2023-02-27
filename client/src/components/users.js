@@ -10,15 +10,6 @@ const users = [
     {
         title:'Aida Bugg',
         desc: 'can talk to me'
-    },
-    {
-        title:'Maureen Biologist',
-        desc: 'can talk to me'
-    },
-    {
-        title:'Maureen Biologist',
-        desc: 'can talk to me'
-    },
-    
+    }
 ]
 export default users
