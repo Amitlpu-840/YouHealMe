@@ -13,7 +13,7 @@ import Avatar1Img from '../src/assets/img/testimonials/avatar1.png';
 import Avatar2Img from '../src/assets/img/testimonials/avatar2.png';
 import Avatar3Img from '../src/assets/img/testimonials/avatar3.png';
 import LogoV2 from '../src/assets/img/logo-v2.png';
-import HeroImage from '../src/assets/img/features/newHer.png';
+import HeroImage from '../src/assets/img/features/newHero2.png';
 import Feature1BgImg from '../src/assets/img/features/feature1_bg.png';
 import Feature2BgImg from '../src/assets/img/features/feature2_bg.png';
 import Feature3BgImg from '../src/assets/img/features/feature3_bg.png';
@@ -62,7 +62,7 @@ export const featuresData = {
       image: Feature1Img,
       bgImage: Feature1BgImg,
       title: 'Calm Music & Sounds',
-      link:'Music',
+      link: 'Music',
       description:
         'Relax and unwind with our soothing sounds.',
       linkText: 'Learn more',
@@ -72,7 +72,7 @@ export const featuresData = {
       image: Feature2Img,
       bgImage: Feature2BgImg,
       title: 'Chat Anonymously with Strangers',
-      link:'ChatAnonymous',
+      link: 'ChatAnonymous',
       description:
         'Connect with the world, without revealing yourself',
       linkText: 'Learn more',
@@ -82,8 +82,8 @@ export const featuresData = {
       image: Feature3Img,
       bgImage: Feature3BgImg,
       title: 'Become Part of Communities',
-   
-      link:'Communities',
+
+      link: 'Communities',
       description:
         'Connect with Like-minded People and Explore Shared Interests through Joining Communities.',
       linkText: 'Learn more',
@@ -93,8 +93,8 @@ export const featuresData = {
       image: Feature5Img,
       bgImage: Feature4BgImg,
       title: 'Confess ',
-   
-      link:'Confess',
+
+      link: 'Confess',
       description:
         'Share your secrets and Unburden yourself, anonymously',
       linkText: 'Learn more',
@@ -104,8 +104,8 @@ export const featuresData = {
       image: Feature4Img,
       bgImage: Feature4BgImg,
       title: 'Unleashing the Power of Fun',
-   
-      link:'Activities',
+
+      link: 'Activities',
       description:
         'Discover the Joy of Life with Fun Activities to Boost Your Mood and Enhance Well-being!',
       linkText: 'Learn more',
