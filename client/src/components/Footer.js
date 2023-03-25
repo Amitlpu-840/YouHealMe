@@ -10,7 +10,7 @@ const Footer = () => {
   // destructure footer data
   const { logo, address, email, phone, list1, list2, socialList } = footerData;
   return (
-    <footer data-aos='fade-up'>
+    <footer data-aos='fade-up' style={{marginTop:'50px'}}>
       <div className='container mx-auto'>
         <div className='flex flex-col xl:flex-row text-center xl:text-left gap-y-12'>
           {/* info */}
