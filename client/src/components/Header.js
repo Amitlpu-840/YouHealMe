@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 // import components
 import Logo from '../assets/img/logo.png';
@@ -22,9 +23,9 @@ const Header = () => {
         <div className='flex items-center justify-between'>
           <div className='flex items-center gap-x-[120px]'>
             {/* logo */}
-            <a href='#'>
+            <Link to='/'>
               <img src={Logo} alt='' style={{width:"200px"}} />
-            </a>
+              </Link>
 
             {/* nav / initially hidden / show on large screens  */}
             <div className='hidden lg:flex'>
@@ -41,10 +42,10 @@ const Header = () => {
             <NavMobile />
           </div>
 
-          <button className='btn btn-quaternary flex items-center gap-x-[20px] group'>
+          <Link to='/Auth'><button className='btn btn-quaternary flex items-center gap-x-[20px] group'>
             SignUp / LogIn
             <BsArrowRight className='text-2xl text-accent-primary group-hover:text-white transition' />
-          </button>
+          </button></Link>
 
           {/* nav trigger btn / only shows on mobile screens */}
           <div

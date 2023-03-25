@@ -9,6 +9,7 @@ import Communities from './components/Communities';
 import ChatAnonymus from './components/chatComponent/ChatAnonymus';
 import Activities from './components/Activities';
 // import ChatAreas from './components/ChatAreas';
+import Auth from './components/Auth/Auth'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -21,6 +22,7 @@ root.render(
           <Route path='Communities' element={<Communities />} />
           <Route path='ChatAnonymous' element={<ChatAnonymus />} />
           <Route path='Activities' element={<Activities />} />
+          <Route path='Auth' element={<Auth />} />
         </Route>
       </Routes>
     </BrowserRouter>
